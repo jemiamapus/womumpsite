@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+div#main {
+  box-sizing: border-box;
+}
+img#img {
+  display: block;
+  margin: auto;
+  max-width: 40vw;
+  box-sizing: border-box;
+  /*border: 100px solid white;*/
+}
